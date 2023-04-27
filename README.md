@@ -1,1 +1,1 @@
-![](screenshots/1.jpg)
+![](screenshots/1.png)
